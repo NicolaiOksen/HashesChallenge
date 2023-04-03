@@ -9,4 +9,5 @@
 ## Running the program
 
 - Start the Processor first, using dotnet run in the Processor folder.
+    - Running the Processor first ensure that the database is created.
 - Start the API, using dotnet run in the HashesChallenge folder.
