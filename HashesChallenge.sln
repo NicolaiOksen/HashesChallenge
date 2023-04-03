@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HashesChallenge", "HashesChallenge\HashesChallenge.csproj", "{8273CC53-7460-499E-9149-E3E329AA6322}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Processor", "Processor\Processor.csproj", "{D52D8CAC-B28A-4A43-92C4-C79F45F9D337}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Data", "Data\Data.csproj", "{3711FC55-1F65-4AE6-81A1-0C83C8D18943}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8273CC53-7460-499E-9149-E3E329AA6322}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8273CC53-7460-499E-9149-E3E329AA6322}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8273CC53-7460-499E-9149-E3E329AA6322}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8273CC53-7460-499E-9149-E3E329AA6322}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D52D8CAC-B28A-4A43-92C4-C79F45F9D337}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D52D8CAC-B28A-4A43-92C4-C79F45F9D337}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D52D8CAC-B28A-4A43-92C4-C79F45F9D337}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D52D8CAC-B28A-4A43-92C4-C79F45F9D337}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3711FC55-1F65-4AE6-81A1-0C83C8D18943}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3711FC55-1F65-4AE6-81A1-0C83C8D18943}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3711FC55-1F65-4AE6-81A1-0C83C8D18943}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3711FC55-1F65-4AE6-81A1-0C83C8D18943}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
